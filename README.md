@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Aditi-Sawardekar/Aditi-Sawardekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,54 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 -->
 
-![Codewars Badge](https://www.codewars.com/users/Aditi-Sawardekar/badges/micro)
+<h2 align="left">Hey, I'm Aditi Sawardekar <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
+
+<h2 align="left">About me:woman_technologist:</h2>
+
+```JavaScript
+const Aditi-Sawardekar = {
+  fulName: "Aditi Sawardekar",
+  pronouns: "She/Her",
+  reachMeOut: ["aditi.sawardekar@gmail.com"],
+  toFindMeUsername: "@Aditi-Sawardekar"
+}
+```
+
+<h2 align="left">Skills🚀</h2>
+<h4>- 🌱 I’m currently learning Web Development at Hack Your Future - Copenhagen     </h4>
+
+
+<p>Languages :</p>
+<div>
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />	
+ <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>	 
+</div>
+
+<p>Libraries and Frameworks :
+<div>
+ <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+ <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+ <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> 
+</div>
+
+<p>Databases :
+<div> 
+ <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+<p>Tools and Technologies :</p>
+<div>
+ <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+ <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/> 
+ <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</div>
+</p>
+
+
+<h2 align="left">Coding Platform :computer:</h2>  
+
+[Codewars](https://www.codewars.com/users/Aditi-Sawardekar/)        ![Codewars](https://www.codewars.com/users/Aditi-Sawardekar/badges/micro)
