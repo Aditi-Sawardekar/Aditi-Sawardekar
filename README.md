@@ -25,6 +25,7 @@ const Aditi-Sawardekar = {
   pronouns: "She/Her",
   reachMeOut: ["aditi.sawardekar@gmail.com"],
   toFindMeUsername: "@Aditi-Sawardekar"
+  communities: ["Hack Your Future", "ReDI School"],
 }
 ```
 
@@ -63,4 +64,11 @@ const Aditi-Sawardekar = {
 
 <h2 align="left">Coding Platform :computer:</h2>  
 
-[Codewars](https://www.codewars.com/users/Aditi-Sawardekar/)        ![Codewars](https://www.codewars.com/users/Aditi-Sawardekar/badges/micro)
+[Codewars](https://www.codewars.com/users/Aditi-Sawardekar/)        ![Codewars](https://www.codewars.com/users/Aditi-Sawardekar/badges/micro)       
+
+<h2 align="left">Connect with me🤝</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/aditi-sawardekar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="mailto:aditi.sawardekar@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
