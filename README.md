@@ -24,7 +24,7 @@ const Aditi-Sawardekar = {
   fulName: "Aditi Sawardekar",
   pronouns: "She/Her",
   reachMeOut: ["aditi.sawardekar@gmail.com"],
-  toFindMeUsername: "@Aditi-Sawardekar"
+  toFindMeUsername: "@Aditi-Sawardekar",
   communities: ["Hack Your Future", "ReDI School"],
 }
 ```
