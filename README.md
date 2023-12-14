@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hey, I'm Aditi Sawardekar <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
-<h2 align="left">About me:woman_technologist:</h2>
+<h2 align="left">About me:</h2>
 
 ```JavaScript
 const Aditi-Sawardekar = {
