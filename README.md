@@ -30,7 +30,7 @@ const Aditi-Sawardekar = {
 ```
 
 <h2 align="left">Skills🚀</h2>
-<h4>- 🌱 Currently focusing on enhancing my frontend skills, building personal projects, and exploring technologies like React, CSS Modules, and accessibility. I’m passionate about creating clean, functional, and user-centered designs. </h4>
+<p>- 🌱 Currently focusing on enhancing my frontend skills, building personal projects, and exploring technologies like React, CSS Modules, and accessibility. I’m passionate about creating clean, functional, and user-centered designs. </p>
 
 
 <p>Languages :</p>
